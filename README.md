@@ -33,17 +33,21 @@
 
 * [The Beginner’s Guide to R](http://www.computerworld.com/article/2497143/business-intelligence-beginner-s-guide-to-r-introduction.html) - This 30 page guide will show you how to install R, load data, run analyses, make graphs, and more.
 
+* [Programming Exercises for R](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/reed/rexercises.pdf) - Rich exercises for R, assumes R is installed.
+
 ####Other Resources
 * [R Markdown](http://rmarkdown.rstudio.com/) - The site provides a quick tour of the R markdown syntax, as well as in depth articles and examples.
  
 * [R Style Guide](http://r-pkgs.had.co.nz/style.html) - This is how other R users will expect your code to look when you share it.
+
+* [R for Matlab Users](http://mathesaurus.sourceforge.net/octave-r.html) - The site provides equivalent commands for users coming from Matlab / Octave / Freemat into R.
 
 ####Please Contribute!
 This list of resources was put together to assist in learning the R programming language and some Data Science. Please feel free to contribute in anyway! Whether that means providing your own content, creating a new category, adding new links, or simply correcting a spelling error. There are a few ways to contribute: 
 
 * **Edit on Github** - For small changes such as adding a link or correcting a spelling error.
 
-* **Issues** - Open an issue and I'll take a peak and update.
+* **Issues** - Open an issue and I'll take a peek and update.
 
 * **Pull Request**
 > Fork this repository. <br/>
